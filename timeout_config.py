@@ -1,4 +1,5 @@
 """
+
 Timeout Configuration Module for Weighbridge Automation System.
 
 This module contains all timeout and timing constants that can be modified
